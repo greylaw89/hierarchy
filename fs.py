@@ -25,7 +25,6 @@ import os
 
 import re
 
-import cls
 import hierarchy
 import helpers
 #------------------------------------------------------------------------------#
